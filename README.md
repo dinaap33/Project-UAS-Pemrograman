@@ -9,4 +9,5 @@ Cara Menjalankan Program :
 Download folder lalu extract
 Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetika python main.py
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+# Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
+[Modul Program Nilai Mahasiswa](https://drive.google.com/file/d/1wcyoYvGLPW37bQ6Ea7KVC4ywaS5Kx8Vy/view?usp=share_link).
