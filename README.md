@@ -11,3 +11,6 @@ Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetika p
 
 ## Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 [Modul Program Nilai Mahasiswa](https://drive.google.com/file/d/1wcyoYvGLPW37bQ6Ea7KVC4ywaS5Kx8Vy/view?usp=share_link).
+
+## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
+[Video Youtube](https://youtu.be/Zzs4fJ63WMk)
